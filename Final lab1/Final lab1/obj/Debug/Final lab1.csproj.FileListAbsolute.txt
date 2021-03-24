@@ -1,0 +1,7 @@
+C:\Users\Tanvir\Documents\C# Task\New folder (2)\Final lab1\Final lab1\bin\Debug\Final lab1.exe.config
+C:\Users\Tanvir\Documents\C# Task\New folder (2)\Final lab1\Final lab1\bin\Debug\Final lab1.exe
+C:\Users\Tanvir\Documents\C# Task\New folder (2)\Final lab1\Final lab1\bin\Debug\Final lab1.pdb
+C:\Users\Tanvir\Documents\C# Task\New folder (2)\Final lab1\Final lab1\obj\Debug\Final lab1.csprojAssemblyReference.cache
+C:\Users\Tanvir\Documents\C# Task\New folder (2)\Final lab1\Final lab1\obj\Debug\Final lab1.csproj.CoreCompileInputs.cache
+C:\Users\Tanvir\Documents\C# Task\New folder (2)\Final lab1\Final lab1\obj\Debug\Final lab1.exe
+C:\Users\Tanvir\Documents\C# Task\New folder (2)\Final lab1\Final lab1\obj\Debug\Final lab1.pdb

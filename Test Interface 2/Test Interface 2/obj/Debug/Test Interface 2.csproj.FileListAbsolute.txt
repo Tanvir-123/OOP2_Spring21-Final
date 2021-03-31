@@ -1,0 +1,2 @@
+C:\Users\Tanvir\Documents\interface\Test Interface 2\Test Interface 2\obj\Debug\Test Interface 2.csprojAssemblyReference.cache
+C:\Users\Tanvir\Documents\interface\Test Interface 2\Test Interface 2\obj\Debug\Test Interface 2.csproj.CoreCompileInputs.cache

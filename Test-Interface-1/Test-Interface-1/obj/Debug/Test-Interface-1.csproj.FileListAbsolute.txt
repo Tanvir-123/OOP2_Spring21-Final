@@ -1,0 +1,2 @@
+C:\Users\Tanvir\Documents\C# Task\Test-Interface-1\Test-Interface-1\obj\Debug\Test-Interface-1.csprojAssemblyReference.cache
+C:\Users\Tanvir\Documents\C# Task\Test-Interface-1\Test-Interface-1\obj\Debug\Test-Interface-1.csproj.CoreCompileInputs.cache

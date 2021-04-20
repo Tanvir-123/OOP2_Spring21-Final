@@ -1,0 +1,2 @@
+C:\Users\Tanvir\Documents\C# Task\DB GUI\DB GUI\obj\Debug\DB GUI.csprojAssemblyReference.cache
+C:\Users\Tanvir\Documents\C# Task\DB GUI\DB GUI\obj\Debug\DB GUI.csproj.CoreCompileInputs.cache

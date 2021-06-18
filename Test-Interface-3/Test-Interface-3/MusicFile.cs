@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Test_Interface_3
 {
-    class Musicfile
+    class MusicFile
     {
         public string tittle { get; set; }
         private string artist { get; }
